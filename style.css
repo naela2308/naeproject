@@ -1,7 +1,7 @@
 body {
-    background-color: #9cab46; 
+    background-color: #357e94;
     font-family: Arial, sans-serif; 
-    color: #474f48; 
+    color: #191970; 
 }
 
 .kartu-profil {
@@ -19,6 +19,6 @@ body {
     border-radius: 50%; 
 }
 .kartu-profil {
-    /* ... (kode dari slide sebelumnya) ... */
+    /* . . . (kode dari slide sebelumnya) . . . */
     text-align: center;
 }
